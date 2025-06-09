@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathGame.KacperZys", "MathGame.KacperZys\MathGame.KacperZys.csproj", "{27C127DA-D68A-42D7-A1AF-F704FF0614D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27C127DA-D68A-42D7-A1AF-F704FF0614D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C127DA-D68A-42D7-A1AF-F704FF0614D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C127DA-D68A-42D7-A1AF-F704FF0614D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C127DA-D68A-42D7-A1AF-F704FF0614D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42428DE9-A1CA-4AF9-AA6F-69E723EA8230}
+	EndGlobalSection
+EndGlobal
